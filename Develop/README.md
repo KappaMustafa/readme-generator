@@ -1,15 +1,24 @@
 
-  # Project 1
+  #  Project 1
+
+  ## Table of Contents
+  [Description](#description)  
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [Guidelines](#guidelines)  
+  [GitHub](#GitHub)
+  [Email](#email)
+
   ## Description! 
-  this is how to write a markdownfile and how to write to it!
+  its a program to make markdown files
   ## How to use this?
-  you run the file then answer the questions
+  you type the answer into the question
   ## How to isntall?
-  you click the link for the github and use the files
+  you download the file
   ## Guidelines?
-  none
+  nope
   ## How to test this?
-  you test it buy uisng it
+  you test it by using it
   ## What is your Github?
   https://github.com/KappaMustafa
   ## What is your Email?
